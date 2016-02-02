@@ -1,0 +1,1 @@
+/usr/bin/c++       CMakeFiles/test_OrienInComp.dir/test_OrienInComp.cpp.o CMakeFiles/test_OrienInComp.dir/test_OrienIn.cpp.o  -o test_OrienInComp -rdynamic -lpthread -lomniORB4 -lomnithread -lomniDynamic4 -lRTC -lcoil 

@@ -1,0 +1,5 @@
+/home/robotics/akishige-y/workspace/test_orientationIn/build/src/CMakeFiles/ALL_IDL_TGT.dir
+/home/robotics/akishige-y/workspace/test_orientationIn/build/doc/CMakeFiles/doxygen_doc.dir
+/home/robotics/akishige-y/workspace/test_orientationIn/build/src/CMakeFiles/test_OrienIn.dir
+/home/robotics/akishige-y/workspace/test_orientationIn/build/src/CMakeFiles/test_OrienInComp.dir
+/home/robotics/akishige-y/workspace/test_orientationIn/build/CMakeFiles/uninstall.dir
